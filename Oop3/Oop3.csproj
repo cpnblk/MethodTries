@@ -1,6 +1,4 @@
-hbN
-4öşi
-ğpğpuüğ,üğt,,tü,y<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
